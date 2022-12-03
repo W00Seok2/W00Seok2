@@ -12,8 +12,9 @@
 📱  SNS 📱
 
 
+   <a href="https://www.instagram.com/w_s_seok/">
 
-<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://www.instagram.com/w_s_seok//"
+<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://www.instagram.com/w_s_seok/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br>
 
