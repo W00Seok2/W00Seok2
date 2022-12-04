@@ -29,6 +29,7 @@
 
 # 🔍 my stat  🔍 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W00Seok2&layout=compact)](https://github.com/W00Seok2/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=W00Seok2&show_icons=true&theme=tokyonight)
    
